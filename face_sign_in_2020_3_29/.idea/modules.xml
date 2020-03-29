@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/face_sign_in_20190401.iml" filepath="$PROJECT_DIR$/.idea/face_sign_in_20190401.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/zzhface/.idea/zzhface.iml" filepath="$USER_HOME$/PycharmProjects/zzhface/.idea/zzhface.iml" />
+    </modules>
+  </component>
+</project>
